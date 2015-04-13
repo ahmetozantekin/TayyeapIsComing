@@ -1,0 +1,19 @@
+.tyyp{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+.tyyp img{
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+.aot{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 500px;
+    left: 0px;
+    border-radius: 100px;
+}
